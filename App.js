@@ -13,7 +13,7 @@ const App = () => {
           style={styles.image}
         >
           <View style = {styles.cardInner}>
-            <Text style = {styles.imageName}>Image Name</Text>
+            <Text style = {styles.imageName}>ugly ahh bih</Text>
           </View>
         </ImageBackground>
       </View>
